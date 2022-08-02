@@ -1,0 +1,9 @@
+.list-cards {
+  padding-top: 30px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  background-color: #eeeeee;
+}

@@ -1,0 +1,22 @@
+.container {
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  background: radial-gradient(
+    circle at 15.91% 9.37%,
+    #8e9bff 0,
+    #5a80ff 25%,
+    #1065f8 50%,
+    #004bc8 75%,
+    #00339b 100%
+  );
+}
+
+.sun,
+.moon {
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
